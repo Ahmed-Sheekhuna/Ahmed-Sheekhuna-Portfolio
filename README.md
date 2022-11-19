@@ -1,3 +1,1 @@
-# Ahmed's Portfolio
-
-**Analytics portfolio**
+# **Analytics portfolio**
