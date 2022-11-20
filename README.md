@@ -1,4 +1,3 @@
-# **Analytics portfolio**
 # Project 1
 # Hotel-Data-Analysis
 Hotel booking data analysis using sql and visualisation using powerbi 
