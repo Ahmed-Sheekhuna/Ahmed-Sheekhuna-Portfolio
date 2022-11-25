@@ -12,4 +12,4 @@ We want to understand if there is a trend in guests with personal cars
 
 # Project 2 
 ## Covid19-Data-Analysis
-Tableau Dashboard - https://public.tableau.com/views/CovidVisualisation_16693055520360/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+[Interactive Tableau Dashboard](https://public.tableau.com/views/CovidVisualisation_16693055520360/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
