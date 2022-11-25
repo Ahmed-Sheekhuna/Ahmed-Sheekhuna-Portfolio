@@ -9,3 +9,7 @@ We want to understand if there is a trend in guests with personal cars
 (Focusing on average daily rate and guests to explore seasonality)
  # Project Pipeline 
 1. Build a database ->2. Data exploration with SQL ->3. Connect Power BI to the Database ->4. Visulaize Data
+
+# Project 2 
+# Covid19-Data-Analysis
+Tableau Dashboard - https://public.tableau.com/views/CovidVisualisation_16693055520360/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
