@@ -8,7 +8,7 @@
 ## [Hotel-Data-Analysis](https://github.com/Ahmed-Sheekhuna/Hotel-Data-Analysis)
 ##### [PowerBI Dashboard](https://github.com/AhmedHamadiSheekhuna/Hotel-Data-Analysis/blob/main/hotel-project%20visual.pdf)
 ### Hotel booking data analysis using SQL and visualisation using PowerBI 
-* Writing SQL queries to analyse data to answer the following stake holder questions:
+* For this project I explored Hotel data to answer the following important stake holder questions:
 1. "Is our hotel revenue growing by year?" To answer this question I explored revenue of both types of hotels
 2. "Should we increase our parking lot size?" 
  Here i explored if there is a trend in guests with personal cars to answer the question in hand
