@@ -1,10 +1,12 @@
 # Project 1
-## Covid19-Data-Analysis [Interactive Tableau Dashboard](https://public.tableau.com/views/CovidVisualisation_16693055520360/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+## [Covid19-Data-Analysis](https://github.com/Ahmed-Sheekhuna/Covid-Data-Exploration)
+##### [Interactive Tableau Dashboard](https://public.tableau.com/views/CovidVisualisation_16693055520360/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 * Within this 
 
 # Project 2
-## Hotel-Data-Analysis [PowerBI Dashboard](https://github.com/AhmedHamadiSheekhuna/Hotel-Data-Analysis/blob/main/hotel-project%20visual.pdf)
+## [Hotel-Data-Analysis](https://github.com/Ahmed-Sheekhuna/Hotel-Data-Analysis)
+##### [PowerBI Dashboard](https://github.com/AhmedHamadiSheekhuna/Hotel-Data-Analysis/blob/main/hotel-project%20visual.pdf)
 ### Hotel booking data analysis using SQL and visualisation using PowerBI 
 * Writing SQL queries to analyse data to answer the following stake holder questions:
 1. "Is our hotel revenue growing by year?" To answer this question I explored revenue of both types of hotels
