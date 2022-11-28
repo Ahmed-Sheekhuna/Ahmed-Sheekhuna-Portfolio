@@ -21,7 +21,8 @@ and visualisation using tableau.
 * Project Pipeline 
 1. Build a database ->2. Data exploration with SQL ->3. Connect Power BI to the Database ->4. Visulaize Data
 
-# Project 3 [Using python for data exploration and analysis](https://github.com/Ahmed-Sheekhuna/Python_EDA/blob/main/README.md)
+# Project 3 
+## [Using python for data exploration and analysis](https://github.com/Ahmed-Sheekhuna/Python_EDA/blob/main/README.md)
 * For this project i used python,s pandas, numpy, seaborn, matplotlip and datetime libraries for data exploration/analysis/visualisation of movie data.
 * The purpose of this project is to provide answers for stake holders looking to get into the film making industry.
 * Questions i will be exploring to paint a clearer picture for the stake holders:
