@@ -20,3 +20,12 @@ and visualisation using tableau.
  Here i explored the trends in the average daily rate combined with the average daily guests
 * Project Pipeline 
 1. Build a database ->2. Data exploration with SQL ->3. Connect Power BI to the Database ->4. Visulaize Data
+
+# Project 3 [Using python for data exploration and analysis](https://github.com/Ahmed-Sheekhuna/Python_EDA/blob/main/README.md)
+* For this project i used python,s pandas, numpy, seaborn, matplotlip and datetime libraries for data exploration/analysis/visualisation of movie data.
+* The purpose of this project is to provide answers for stake holders looking to get into the film making industry.
+* Questions i will be exploring to paint a clearer picture for the stake holders:
+1. When is the best time of the year to release a movie to gain maximum profits?
+2. Which actors and directors to choose to maximise success of a movie?
+3. Does the length of the movie and the rating have any impact on Net Profit, Profit Margins and IMDb ratings?
+4. What type of movies are most profitable to produce and how much should you spend?
